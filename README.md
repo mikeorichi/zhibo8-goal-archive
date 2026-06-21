@@ -1,2 +1,14 @@
 # zhibo8-goal-archive
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+这里是自动发布页面的存放目录，用于集中维护生成结果。
+
+## 保存位置
+
+- 页面文件默认保存在仓库根目录
+- 说明文件保存在 `README.md`
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
